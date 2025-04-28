@@ -25,4 +25,4 @@ Run:
 ```
 ./CHIP8 <ROM file>
 ```
-There are 5 test ROMs are included in the `roms` directory.
+There are 4 test ROMs included in the `roms` directory.
